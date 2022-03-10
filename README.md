@@ -1,2 +1,3 @@
 # button_style
-Animated and stylized buttons, only in CSS
+Animated and stylized buttons, only in CSS.
+You must run 'index.html' on your Explorer.
