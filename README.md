@@ -1,2 +1,2 @@
 # button_style
-Animated and stylized button only in CSS
+Animated and stylized buttons only in CSS
